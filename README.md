@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari-so-irie&label=Profile%20views&color=0e75b6&style=flat" alt="ari-so-irie" /> </p>
 
-- 🔭 I’m currently working on [completing Pursuit's CORE curriculum](https://github.com/Ari-So-Irie)
+- 🔭 I’m currently working on completing Pursuit's CORE curriculum 
 
 - 🌱 I’m currently learning **FSW Development Essentials (front-end & back-end)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ari-So-Irie](https://github.com/Ari-So-Irie)
 
-- 📝 I regularly write articles on [mental health & personal development.](mental health & personal development.)
+- 📝 I regularly write articles on mental health & personal development
 
 - 📫 How to reach me **arius1500@gmail.com**
 
