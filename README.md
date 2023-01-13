@@ -1,17 +1,17 @@
-<h1 align="center">Hey 👋, I'm Arius Phillips</h1>
+<h1 align="center">Hey 👋🏿 I'm Arius Phillips</h1>
 <h3 align="center">A Pursuit Fellow on the path to become a FSW developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari-so-irie&label=Profile%20views&color=0e75b6&style=flat" alt="ari-so-irie" /> </p>
 
-- 🔭 I’m currently working on completing Pursuit's CORE curriculum 
+- 💪🏿 I’m currently working on completing Pursuit's CORE curriculum 
 
-- 🌱 I’m currently learning **FSW Development Essentials (front-end & back-end)**
+- 📚 I’m currently learning **FSW Development Essentials (front-end & back-end)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ari-So-Irie](https://github.com/Ari-So-Irie)
+- 👨🏿‍💻 All of my projects are available at [https://github.com/Ari-So-Irie](https://github.com/Ari-So-Irie)
 
-- 📝 I regularly write articles on mental health & personal development
+- 📝 I blog about E-Commerce 🏷, Tech 📲, and Marketing 📈
 
 - 📫 How to reach me **arius1500@gmail.com**
 
